@@ -1,0 +1,8 @@
+{
+  "name": "AI Mock Interviewer",
+  "description": "A realistic interview practice application using Camera, WebSpeechAPI, and Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
